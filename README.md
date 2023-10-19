@@ -6,4 +6,4 @@
 
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sdemir60&theme=swift)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sdemir60&theme=github)
