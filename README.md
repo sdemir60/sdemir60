@@ -22,8 +22,7 @@
 </div>
 <div>
   <span>
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=sdemir60&theme=yeblu&hide_border=true" />
-
+    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=sdemir60&theme=yeblu&hide_border=true" />
   </span>
 </div>
 
