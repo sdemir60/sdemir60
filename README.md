@@ -9,20 +9,16 @@
 </div>
 
 <div>
-  <span>
-    <img width="49.7%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sdemir60&theme=yeblu" />
+  <span style="text-wrap: nowrap;">
+    <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sdemir60&theme=yeblu" />
+        <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sdemir60&theme=yeblu&utcOffset=8" />
   </span>
-  <span >
-    <img width="49.7%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sdemir60&theme=yeblu" />
+</div>
+<div>
+  <span>
+    <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sdemir60&theme=yeblu" />
+    <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sdemir60&theme=yeblu" />
   </span>
 </div>
 
-<div>
-  <span>
-    <img width="49.7%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sdemir60&theme=yeblu" />
-  </span>
-  <span >
-    <img width="49.7%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sdemir60&theme=yeblu&utcOffset=8" />
-  </span>
-</div>
- 
+
