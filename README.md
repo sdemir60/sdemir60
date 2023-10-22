@@ -9,9 +9,9 @@
 </div>
 
 <div>
-  <span style="text-wrap: nowrap;">
-    <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sdemir60&theme=yeblu" />
-        <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sdemir60&theme=yeblu&utcOffset=8" />
+  <span>
+    <img width="revert-layer" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sdemir60&theme=yeblu" />
+    <img width="revert-layer" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sdemir60&theme=yeblu&utcOffset=8" />
   </span>
 </div>
 <div>
