@@ -4,7 +4,16 @@
    
    
 <table width="100%">
-  
+
+  <thead width="100%">
+    <tr>
+      <th width="50%">First header</th>
+      <th width="50%">Second header long</th>
+    </tr>
+  </thead>
+
+   <tbody width="100%">
+      
   <tr>
     <td colspan="2">
       <div>
@@ -46,5 +55,7 @@
       </div>
     </td>
   </tr>
+
+ </tbody>
   
 </table>
