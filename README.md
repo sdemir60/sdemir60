@@ -6,43 +6,43 @@
   
   <tr>
     <td colspan="2">
-      <span>
+      <div>
         <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sdemir60&theme=yeblu" />
-      </span>
+      </div>
     </td>
   </tr>
   
   <tr>
     <td>  
-      <span>
+      <div>
         <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sdemir60&theme=yeblu" />
-      </span>
+      </div>
     </td>
     <td>  
-      <span>
+      <div>
         <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sdemir60&theme=yeblu&utcOffset=8" />
-      </span>
+      </div>
     </td>
   </tr>
 
   <tr>
     <td>  
-      <span>
+      <div>
         <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sdemir60&theme=yeblu" />
-      </span>
+      </div>
     </td>
     <td>  
-      <span>
+      <div>
         <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sdemir60&theme=yeblu" />
-      </span>
+      </div>
     </td>
   </tr>
 
   <tr>
     <td colspan="2">  
-      <span>
+      <div>
         <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=sdemir60&theme=yeblu&hide_border=true" />
-      </span>
+      </div>
     </td>
   </tr>
   
