@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&random=false&width=435&lines=Computer+Engineer;Mobile+Application+Developer)](https://git.io/typing-svg)
 
-
 <table width="100%">
   
   <tr width="100%">
@@ -12,6 +11,10 @@
       </div>
     </td>
   </tr>
+  
+</table>
+
+<table width="100%">
   
   <tr width="100%">
     <td width="50%">  
@@ -25,7 +28,11 @@
       </div>
     </td>
   </tr>
+  
+</table>
 
+<table width="100%">
+  
   <tr width="100%">
     <td width="50%">  
       <div>
@@ -39,6 +46,10 @@
     </td>
   </tr>
 
+</table>
+
+<table width="100%">
+  
   <tr width="100%">
     <td width="100%" colspan="2">  
       <div>
@@ -48,4 +59,3 @@
   </tr>
   
 </table>
-
