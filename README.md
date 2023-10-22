@@ -5,21 +5,13 @@
 <table width="100%">
   
   <tr width="100%">
-    <tr>
-    <th>Başlık 1</th>
-    <th>Başlık 2</th>
-  </tr>
     <td width="100%" colspan="2">
       <div>
         <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sdemir60&theme=yeblu" />
       </div>
     </td>
   </tr>
-  
-</table>
 
-<table width="100%">
-  
   <tr width="100%">
     <td width="50%">  
       <div>
@@ -32,11 +24,7 @@
       </div>
     </td>
   </tr>
-  
-</table>
 
-<table width="100%">
-  
   <tr width="100%">
     <td width="50%">  
       <div>
@@ -50,10 +38,6 @@
     </td>
   </tr>
 
-</table>
-
-<table width="100%">
-  
   <tr width="100%">
     <td width="100%" colspan="2">  
       <div>
