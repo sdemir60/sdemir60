@@ -8,8 +8,7 @@
   <tr width="100%">
     <td width="100%" colspan="2">
       <div>
-        <img width="98%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sdemir60&theme=yeblu" />
-        <img width="0%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sdemir60&theme=yeblu" />
+        <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sdemir60&theme=yeblu" />
       </div>
     </td>
   </tr>
