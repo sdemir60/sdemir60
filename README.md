@@ -8,7 +8,7 @@
     <td colspan="2">
       <div>
         <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sdemir60&theme=yeblu" />
-        <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sdemir60&theme=yeblu" />
+         <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=sdemir60&theme=yeblu&hide_border=true" />
       </div>
     </td>
   </tr>
@@ -35,14 +35,6 @@
     <td>  
       <div>
         <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sdemir60&theme=yeblu" />
-      </div>
-    </td>
-  </tr>
-
-  <tr>
-    <td colspan="2">  
-      <div>
-        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=sdemir60&theme=yeblu&hide_border=true" />
       </div>
     </td>
   </tr>
